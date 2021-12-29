@@ -1,0 +1,12 @@
+__pycache__
+.history
+.hypothesis/
+build/
+reports/
+.env
+contracts/
+interfaces/
+tests/
+scripts/
+brownie-config.yaml
+
