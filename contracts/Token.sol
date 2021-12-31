@@ -19,5 +19,6 @@ contract Token {
 
   function balanceOf(address _owner) public view returns (uint balance) {
     return balances[_owner];
+
   }
 }
