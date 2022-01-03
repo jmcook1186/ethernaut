@@ -40,3 +40,7 @@ So, taking ownership of this contract and draining it of funds can be achieved i
     contract.withdraw()
    ```
 
+
+
+### Links:
+[Truth about Fallbacks in Solidity](https://medium.com/upstate-interactive/the-truth-about-fallback-functions-in-solidity-a2c604f8e66b)
