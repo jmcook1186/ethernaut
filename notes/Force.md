@@ -58,5 +58,6 @@ NB Force.sol already has a deployment address provided via ethernaut "get instan
 ```
 
 ### Links
+
 [Solidity by Example: selfdestruct](https://solidity-by-example.org/hacks/self-destruct/)
 [StackExchange: why are selfdestructs useful?](https://ethereum.stackexchange.com/questions/315/why-are-selfdestructs-used-in-contract-programming/347)

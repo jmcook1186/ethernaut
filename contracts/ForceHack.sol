@@ -12,8 +12,8 @@ contract ForceHack{
     function selfDestruct() public{
 
         // set address to the deployment addr for Force.sol
-        address payable contract_address = 0x83867758a9A4D667c78fCE37b63483151114436D;
-        selfdestruct(contract_address);
+        //address payable contract_address = 0x83867758a9A4D667c78fCE37b63483151114436D;
+        //selfdestruct(contract_address);
     }
 
 
